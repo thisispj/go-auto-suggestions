@@ -4,6 +4,9 @@
 This repository contains the source code for implementing a modern autocomplete feature in Go (Golang) using Gin middleware and Redis cache. The autocomplete feature provides real-time suggestions to users as they type into input fields, enhancing the user experience of web applications.
 
 
+![App Screenshot](https://github.com/thisispj/go-auto-suggestions/blob/main/Screenshot.png)
+
+
 ## Getting Started
 
 Follow these instructions to get the project up and running on your local machine.
@@ -65,6 +68,3 @@ Submit a pull request to the main branch of the original repository.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-## Screenshots
-
-![App Screenshot](https://github.com/thisispj/go-auto-suggestions/blob/main/Screenshot.png)
